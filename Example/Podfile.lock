@@ -1,0 +1,16 @@
+PODS:
+  - YHTestFourth (0.1.0)
+
+DEPENDENCIES:
+  - YHTestFourth (from `../`)
+
+EXTERNAL SOURCES:
+  YHTestFourth:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YHTestFourth: 862c479827847bc1fec0f279c2431d3c3036068a
+
+PODFILE CHECKSUM: 069b0e1eed9e98b640cf940c59d7da29d70150c2
+
+COCOAPODS: 1.9.3
